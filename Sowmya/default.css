@@ -1,0 +1,159 @@
+body
+{
+	border: 1px transparent solid;
+}
+#topboxS
+{	
+	border: 1px #96b9ff solid;
+	text-align: center;
+}
+
+.leftdivWrapperS
+{
+	border: 1px red transparent;
+	float: left;
+	width: 200px;
+	color: #63656b;
+	font-family: Courier 5cpi;
+	float: top;
+}
+
+#leftboxS
+{
+	
+	border: 1px grey solid;
+	width: 184px;
+	color: #63656b;
+	font-family: Courier 5cpi;
+
+	overflow: auto;
+
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+	padding: 3px;
+	
+}
+
+#leftbottomS
+{
+	border: 1px grey solid;
+	width: 184px;
+	color: #63656b;
+	font-family: Courier 5cpi;
+
+	overflow: auto;
+
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
+	padding: 3px;
+	
+}
+
+#leftboxS li
+{
+	margin-bottom: 15px;
+}
+#rightboxS
+{
+	border: 1px transparent solid;
+	margin-left: 215px;
+	text-align: center;
+	
+}
+#bottomboxS
+{
+	border: 1px #96b9ff solid;
+	text-align: center;
+	padding-top: 15px; 
+	padding-bottom: 15px; 
+}
+#boxLinks
+{
+	position: absolute;
+	top: 15px;
+	right: 60px;
+	color: purple; 
+}
+#contentS
+{
+	border: 1px transparent solid;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	overflow: auto;
+}
+#imageS
+{
+	border: 2px transparent solid;
+	width:50px;
+	position: absolute;
+	top:30px;
+	left:30px;
+}
+.itembrd
+{
+	border: 1px grey solid;
+	float: left;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	height: 350px;
+	width: 175px;
+	padding: 10px 10px 10px 10px;
+	overflow: visible;
+	
+}
+.ProImgBrd
+{
+	height: 200px;
+}
+#middleboxL
+{
+	border: 1px grey solid;
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	padding-top: 98px;
+	padding-bottom: 98px;
+}
+#middleboxR
+{
+	border: 1px grey solid;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	padding-top: 98px;
+	padding-bottom: 98px;
+}
+#middleboxFP
+{
+	border: 1px grey solid;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	padding-top: 125px;
+	padding-bottom: 125px;
+}
+#password
+{
+	border: 1px grey solid;
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	padding-top: 98px;
+	padding-bottom: 98px;
+}
+#login 
+{
+	text-align: center;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+#login_image
+{
+	float: left;
+}
